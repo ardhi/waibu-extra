@@ -1,0 +1,28 @@
+[{
+  "prefix": "jquery",
+  "root": "jquery:/dist",
+  "scripts": ["jquery.min.js"]
+}, {
+  "pefix": "prismjs",
+  "root": "prismjs:"
+}, {
+  "prefix": "masonry",
+  "root": "masonry-layout:/dist",
+  "scripts": ["masonry.pkgd.min.js"]
+}, {
+  "prefix": "highlightjs",
+  "root": "@highlightjs/cdn-assets:",
+  "scripts": ["highlight.min.js"]
+}, {
+  "prefix": "imagesloaded",
+  "root": "imagesloaded:",
+  "scripts": ["imagesloaded.pkgd.min.js"]
+}, {
+  "prefix": "tempusDominus",
+  "root": "@eonasdan/tempus-dominus:/dist",
+  "scripts": ["js/tempus-dominus.min.js"]
+}, {
+  "prefix": "echarts",
+  "root": "echarts:/dist",
+  "scripts": ["echarts.min.js"]
+}]

@@ -1,6 +1,6 @@
 # wakatobi-extra
 
-Plugin name: **wakatobiExtra**, alias: **wktbx**
+Plugin name: **wakatobiExtra**, alias: **wktbxtra**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/wakatobi-extra) ![NPM Version](https://img.shields.io/npm/v/wakatobi-extra)
 

@@ -1,6 +1,6 @@
 async function script () {
   const { readConfig } = this.app.bajo
-  const { routePath } = this.app.bajoWebStatic
+  const { routePath } = this.app.waibuMpa
   const { isArray } = this.app.bajo.lib._
   const libs = await readConfig(`${this.name}:/lib/libs.json`)
   const scripts = []

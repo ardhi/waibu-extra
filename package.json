@@ -33,6 +33,7 @@
     "@highlightjs/cdn-assets": "^11.10.0",
     "echarts": "^5.5.1",
     "highlight.js": "^11.10.0",
+    "holderjs": "^2.9.9",
     "imagesloaded": "^5.0.0",
     "jquery": "^3.7.1",
     "masonry-layout": "^4.2.2",

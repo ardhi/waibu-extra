@@ -1,7 +1,7 @@
 {
   "alias": "wbxtra",
   "virtuals": ["jquery", "prismjs", "masonry", "highlightjs", "imagesloaded",
-    "tempusDominus", "echarts"
+    "tempusDominus", "echarts", "holderjs"
   ],
   "dependencies": ["waibu-static"]
 }

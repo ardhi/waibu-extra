@@ -25,4 +25,8 @@
   "prefix": "echarts",
   "root": "echarts:/dist",
   "scripts": ["echarts.min.js"]
+}, {
+  "prefix": "holderjs",
+  "root": "holderjs:",
+  "scripts": ["holder.min.js"]
 }]

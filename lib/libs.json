@@ -1,32 +1,28 @@
 [{
   "prefix": "jquery",
-  "root": "jquery:/dist",
-  "scripts": ["jquery.min.js"]
+  "root": "jquery:/dist"
 }, {
   "pefix": "prismjs",
   "root": "prismjs:"
 }, {
   "prefix": "masonry",
-  "root": "masonry-layout:/dist",
-  "scripts": ["masonry.pkgd.min.js"]
+  "root": "masonry-layout:/dist"
 }, {
   "prefix": "highlightjs",
-  "root": "@highlightjs/cdn-assets:",
-  "scripts": ["highlight.min.js"]
+  "root": "@highlightjs/cdn-assets:"
 }, {
   "prefix": "imagesloaded",
-  "root": "imagesloaded:",
-  "scripts": ["imagesloaded.pkgd.min.js"]
+  "root": "imagesloaded:"
 }, {
   "prefix": "tempusDominus",
-  "root": "@eonasdan/tempus-dominus:/dist",
-  "scripts": ["js/tempus-dominus.min.js"]
+  "root": "@eonasdan/tempus-dominus:/dist"
 }, {
   "prefix": "echarts",
-  "root": "echarts:/dist",
-  "scripts": ["echarts.min.js"]
+  "root": "echarts:/dist"
 }, {
   "prefix": "holderjs",
-  "root": "holderjs:",
-  "scripts": ["holder.min.js"]
+  "root": "holderjs:"
+}, {
+  "prefix": "alpinejs",
+  "root": "alpinejs:/dist"
 }]

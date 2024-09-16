@@ -31,7 +31,6 @@
   "dependencies": {
     "@eonasdan/tempus-dominus": "^6.9.9",
     "@highlightjs/cdn-assets": "^11.10.0",
-    "alpinejs": "^3.14.1",
     "echarts": "^5.5.1",
     "highlight.js": "^11.10.0",
     "holderjs": "^2.9.9",

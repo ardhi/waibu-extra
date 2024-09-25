@@ -1,6 +1,6 @@
 # waibu-extra
 
-Plugin name: **waibuExtra**, alias: **wbxtra**
+Plugin name: **waibuExtra**, alias: **wxtra**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ardhi/waibu-extra) ![NPM Version](https://img.shields.io/npm/v/waibu-extra)
 

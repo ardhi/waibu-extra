@@ -1,5 +1,5 @@
 {
-  "alias": "wbxtra",
+  "alias": "wxtra",
   "scripts": ["jquery", "prismjs", "masonry", "highlightjs", "imagesloaded",
     "tempusDominus", "echarts", "holderjs"
   ],

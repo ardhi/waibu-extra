@@ -2,8 +2,8 @@
   "waibu": {
     "prefix": "extra"
   },
-  "scripts": ["jquery", "prismjs", "masonry", "highlightjs", "imagesloaded",
-    "tempusDominus", "echarts", "holderjs"
+  "scripts": ["masonry", "highlightjs", "imagesloaded", "tempusDominus", "popperjs",
+    "echarts", "holderjs", "tom-select"
   ],
   "dependencies": ["waibu-static"]
 }

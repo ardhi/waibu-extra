@@ -2,9 +2,6 @@
   "prefix": "jquery",
   "root": "jquery:/dist"
 }, {
-  "pefix": "prismjs",
-  "root": "prismjs:"
-}, {
   "prefix": "masonry",
   "root": "masonry-layout:/dist"
 }, {
@@ -17,9 +14,15 @@
   "prefix": "tempusDominus",
   "root": "@eonasdan/tempus-dominus:/dist"
 }, {
+  "prefix": "popperjs",
+  "root": "@popperjs/core:/dist"
+}, {
   "prefix": "echarts",
   "root": "echarts:/dist"
 }, {
   "prefix": "holderjs",
   "root": "holderjs:"
+}, {
+  "prefix": "tom-select",
+  "root": "tom-select:/dist"
 }]

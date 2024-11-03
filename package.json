@@ -37,6 +37,6 @@
     "imagesloaded": "^5.0.0",
     "jquery": "^3.7.1",
     "masonry-layout": "^4.2.2",
-    "prismjs": "^1.29.0"
+    "tom-select": "^2.3.1"
   }
 }

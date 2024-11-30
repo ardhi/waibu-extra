@@ -25,4 +25,7 @@
 }, {
   "prefix": "tom-select",
   "root": "tom-select:/dist"
+}, {
+  "prefix": "flag-icons",
+  "root": "node_modules/flag-icons"
 }]

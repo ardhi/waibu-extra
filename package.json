@@ -32,6 +32,7 @@
     "@eonasdan/tempus-dominus": "^6.9.9",
     "@highlightjs/cdn-assets": "^11.10.0",
     "@turf/turf": "^7.1.0",
+    "canvas-gauges": "^2.1.7",
     "cheap-ruler": "^4.0.0",
     "echarts": "^5.5.1",
     "flag-icons": "^7.2.3",

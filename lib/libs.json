@@ -34,4 +34,7 @@
 }, {
   "prefix": "cheap-ruler",
   "root": "cheap-ruler:"
+}, {
+  "prefix": "canvas-gauges",
+  "root": "canvas-gauges:"
 }]

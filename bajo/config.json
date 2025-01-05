@@ -3,7 +3,8 @@
     "prefix": "extra"
   },
   "libs": ["masonry", "highlightjs", "imagesloaded", "tempusDominus", "popperjs",
-    "echarts", "holderjs", "tom-select", "flag-icons", "turf", "cheap-ruler"
+    "echarts", "holderjs", "tom-select", "flag-icons", "turf", "cheap-ruler",
+    "canvas-gauges"
   ],
   "dependencies": ["waibu-static"]
 }

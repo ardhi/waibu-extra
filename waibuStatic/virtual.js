@@ -1,6 +1,6 @@
 async function virtual () {
   const { readJson } = this.app.bajo
-  const { pick } = this.app.bajo.lib._
+  const { pick } = this.lib._
   const libs = readJson(`${this.dir.pkg}/lib/libs.json`) ?? []
   const virts = []
   for (const l of libs) {

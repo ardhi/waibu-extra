@@ -29,9 +29,6 @@
   "prefix": "flag-icons",
   "root": "node_modules/flag-icons"
 }, {
-  "prefix": "turf",
-  "root": "@turf/turf:"
-}, {
   "prefix": "cheap-ruler",
   "root": "cheap-ruler:"
 }, {

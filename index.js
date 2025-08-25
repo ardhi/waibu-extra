@@ -1,11 +1,12 @@
 async function factory (pkgName) {
   const me = this
 
-  return class WaibuExtra extends this.lib.Plugin {
+  class WaibuExtra extends this.lib.Plugin {
+    static alias = 'wx'
+    static dependencies = ['waibu-static', 'waibu']
+
     constructor () {
       super(pkgName, me.app)
-      this.alias = 'wx'
-      this.dependencies = ['waibu-static', 'waibu']
       this.config = {
         waibu: {
           prefix: 'extra'
@@ -20,6 +21,8 @@ async function factory (pkgName) {
     init = async () => {
     }
   }
+
+  return WaibuExtra
 }
 
 export default factory

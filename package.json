@@ -4,7 +4,8 @@
   "description": "Some 3rd party libs for waibu MPA",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-doc": "jsdoc -c .jsdoc.conf.json",
+    "test": "mocha"
   },
   "type": "module",
   "bajo": {
@@ -45,5 +46,9 @@
     "jquery": "^3.7.1",
     "masonry-layout": "^4.2.2",
     "tom-select": "^2.3.1"
+  },
+  "devDependencies": {
+    "clean-jsdoc-theme": "^4.3.0",
+    "jsdoc-plugin-intersection": "^1.0.4"
   }
 }

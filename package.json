@@ -33,19 +33,19 @@
   },
   "homepage": "https://github.com/ardhi/waibu-extra#readme",
   "dependencies": {
-    "@eonasdan/tempus-dominus": "^6.9.9",
-    "@highlightjs/cdn-assets": "^11.10.0",
-    "@turf/turf": "^7.1.0",
+    "@eonasdan/tempus-dominus": "^6.10.4",
+    "@highlightjs/cdn-assets": "^11.11.1",
+    "@turf/turf": "^7.3.1",
     "canvas-gauges": "^2.1.7",
     "cheap-ruler": "^4.0.0",
-    "echarts": "^5.5.1",
-    "flag-icons": "^7.2.3",
-    "highlight.js": "^11.10.0",
+    "echarts": "^6.0.0",
+    "flag-icons": "^7.5.0",
+    "highlight.js": "^11.11.1",
     "holderjs": "^2.9.9",
     "imagesloaded": "^5.0.0",
     "jquery": "^3.7.1",
     "masonry-layout": "^4.2.2",
-    "tom-select": "^2.3.1"
+    "tom-select": "^2.4.3"
   },
   "devDependencies": {
     "clean-jsdoc-theme": "^4.3.0",

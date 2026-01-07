@@ -35,7 +35,6 @@
   "dependencies": {
     "@eonasdan/tempus-dominus": "^6.10.4",
     "@highlightjs/cdn-assets": "^11.11.1",
-    "@turf/turf": "^7.3.1",
     "canvas-gauges": "^2.1.7",
     "cheap-ruler": "^4.0.0",
     "echarts": "^6.0.0",

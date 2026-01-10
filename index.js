@@ -13,9 +13,6 @@ async function factory (pkgName) {
    * @class
    */
   class WaibuExtra extends this.app.baseClass.Base {
-    static alias = 'wx'
-    static dependencies = ['waibu-static', 'waibu']
-
     constructor () {
       super(pkgName, me.app)
       this.config = {

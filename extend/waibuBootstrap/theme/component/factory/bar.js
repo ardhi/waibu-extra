@@ -1,5 +1,5 @@
 async function script () {
-  return class WxBar extends this.baseFactory {
+  return class WxBar extends this.app.baseClass.MpaWidget {
     constructor (options) {
       super(options)
       this.params.noTag = true

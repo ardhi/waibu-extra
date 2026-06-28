@@ -1,5 +1,11 @@
 # Changes
 
+## 2026-06-28
+
+- [2.3.0] Change waibu prefix to ```wx```
+- [2.3.0] Add documentations
+- [2.3.0] Add tests
+
 ## 2026-02-16
 
 - [2.2.0] Auto insert and configure ```jquery``` and ```highlightjs``` via page ```features```

@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-07-24
+
+- [2.4.0] Change `readJson` to `fromJson`
+
 ## 2026-06-28
 
 - [2.3.0] Change waibu prefix to ```wx```

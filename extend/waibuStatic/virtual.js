@@ -1,7 +1,7 @@
 async function virtual () {
-  const { readJson } = this.app.bajo
+  const { fromJson } = this.app.bajo
   const { pick } = this.app.lib._
-  const libs = readJson(`${this.dir.pkg}/lib/libs.json`) ?? []
+  const libs = await fromJson(`${this.dir.pkg}/lib/libs.json`, { readFromFile: true }) ?? []
   const virts = []
   for (const l of libs) {
     if (this.config.libs.includes(l.prefix)) virts.push(pick(l, ['prefix', 'root']))

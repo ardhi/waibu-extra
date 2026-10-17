@@ -1,5 +1,9 @@
 # Changes
 
+## 2026-10-17
+
+- [2.5.0] Add `acmeticker`
+
 ## 2026-07-24
 
 - [2.4.0] Change `readJson` to `fromJson`

@@ -1,6 +1,6 @@
 {
   "name": "waibu-extra",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "description": "Some 3rd party libs for waibu MPA",
   "main": "index.js",
   "scripts": {
@@ -40,6 +40,7 @@
   "dependencies": {
     "@eonasdan/tempus-dominus": "^6.10.4",
     "@highlightjs/cdn-assets": "^11.11.1",
+    "acmeticker": "^2.0.1",
     "canvas-gauges": "^2.1.7",
     "cheap-ruler": "^4.0.0",
     "echarts": "^6.0.0",

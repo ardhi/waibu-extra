@@ -34,4 +34,7 @@
 }, {
   "prefix": "canvas-gauges",
   "root": "canvas-gauges:"
+}, {
+  "prefix": "acmeticker",
+  "root": "acmeticker:/dist"
 }]

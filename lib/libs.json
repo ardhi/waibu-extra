@@ -37,4 +37,7 @@
 }, {
   "prefix": "acmeticker",
   "root": "acmeticker:/dist"
+}, {
+  "prefix": "slugify",
+  "root": "slugify:"
 }]

@@ -1,6 +1,6 @@
 {
   "name": "waibu-extra",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "Some 3rd party libs for waibu MPA",
   "main": "index.js",
   "scripts": {
@@ -50,6 +50,7 @@
     "imagesloaded": "^5.0.0",
     "jquery": "^3.7.1",
     "masonry-layout": "^4.2.2",
+    "slugify": "^1.6.9",
     "tom-select": "^2.4.3"
   },
   "devDependencies": {

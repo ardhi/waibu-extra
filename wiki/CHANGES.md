@@ -1,5 +1,11 @@
 # Changes
 
+## 2026-11-22
+
+- [2.6.0] Add `slugify` package
+- [2.6.0] Export `slugify` as static's virtual
+- [2.6.0] Add `slugify` as page features
+
 ## 2026-10-17
 
 - [2.5.0] Add `acmeticker`
@@ -28,4 +34,3 @@
 - [2.1.0] Upgrade to ```flag-icons@7.5.0```
 - [2.1.0] Upgrade to ```highlightjs@11.11.1```
 - [2.1.0] Upgrade to ```tom-select@2.4.3```
-

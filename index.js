@@ -33,7 +33,7 @@ async function factory (pkgName) {
         },
         libs: ['masonry', 'highlightjs', 'imagesloaded', 'tempusDominus', 'popperjs',
           'echarts', 'holderjs', 'tom-select', 'flag-icons', 'cheap-ruler',
-          'canvas-gauges', 'acmeticker'
+          'canvas-gauges', 'acmeticker', 'slugify'
         ]
       }
     }
